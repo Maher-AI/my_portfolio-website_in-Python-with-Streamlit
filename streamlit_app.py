@@ -171,8 +171,4 @@ st.markdown('''
 - English-C2
 ''')
 
-# How to build a data science resume (portfolio website) in Python with Streamlit
-# my_portfolio website) in Python with Streamlit
-# my portfolio website
 
-# this linke = https://share.streamlit.io/
